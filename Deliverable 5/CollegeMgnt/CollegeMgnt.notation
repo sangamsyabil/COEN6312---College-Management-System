@@ -36,7 +36,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qnOQfiu3Eei-CaKkUR2COA"/>
     </children>
     <element xmi:type="uml:Class" href="CollegeMgnt.uml#_qmnMcCu3Eei-CaKkUR2COA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qm45QSu3Eei-CaKkUR2COA" x="302" y="151"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qm45QSu3Eei-CaKkUR2COA" x="60" y="60"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_yPwRMC6uEeiUc7UsZ4Z0EA" type="StereotypeComment">
     <styles xmi:type="notation:TitleStyle" xmi:id="_yPwRMS6uEeiUc7UsZ4Z0EA"/>
@@ -45,6 +45,11 @@
     </styles>
     <element xsi:nil="true"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yPwRMi6uEeiUc7UsZ4Z0EA" x="502" y="151"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_kMzwcDIHEeiohIwDD0HaEw" type="Comment_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kNQcYDIHEeiohIwDD0HaEw" type="Comment_BodyLabel"/>
+    <element xmi:type="uml:Comment" href="CollegeMgnt.uml#_kLKxsDIHEeiohIwDD0HaEw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kMzwcTIHEeiohIwDD0HaEw" x="245" y="224"/>
   </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_kNwM8Su3Eei-CaKkUR2COA" name="diagram_compatibility_version" stringValue="1.3.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_kNwM8iu3Eei-CaKkUR2COA"/>

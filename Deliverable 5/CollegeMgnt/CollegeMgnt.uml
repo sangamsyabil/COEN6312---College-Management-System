@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:java="http://www.eclipse.org/papyrus/JAVA/1" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
   <uml:Model xmi:id="_kEmQ8Cu3Eei-CaKkUR2COA" name="CollegeMgnt">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_kLKxsDIHEeiohIwDD0HaEw">
+      <body>this one I added</body>
+    </ownedComment>
     <packageImport xmi:type="uml:PackageImport" xmi:id="_kpE3ACu3Eei-CaKkUR2COA">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
     </packageImport>
