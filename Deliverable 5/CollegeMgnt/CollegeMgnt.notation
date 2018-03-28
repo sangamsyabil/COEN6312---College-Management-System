@@ -46,10 +46,201 @@
     <element xsi:nil="true"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yPwRMi6uEeiUc7UsZ4Z0EA" x="502" y="151"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_kMzwcDIHEeiohIwDD0HaEw" type="Comment_Shape">
-    <children xmi:type="notation:DecorationNode" xmi:id="_kNQcYDIHEeiohIwDD0HaEw" type="Comment_BodyLabel"/>
-    <element xmi:type="uml:Comment" href="CollegeMgnt.uml#_kLKxsDIHEeiohIwDD0HaEw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kMzwcTIHEeiohIwDD0HaEw" x="245" y="224"/>
+  <children xmi:type="notation:Shape" xmi:id="_dp39ADIJEeiohIwDD0HaEw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_dp7AUDIJEeiohIwDD0HaEw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_dp7AUTIJEeiohIwDD0HaEw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dp7nYDIJEeiohIwDD0HaEw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_dp81gDIJEeiohIwDD0HaEw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_T-njMDIKEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_T9PqMDIKEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_T-njMTIKEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JE8KQDISEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_JEL8UDISEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JE8KQTISEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_fgKaIDISEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_ffkkQDISEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fgKaITISEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_wSquADISEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_wSGtUDISEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wSquATISEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_dp81gTIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_dp81gjIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_dp81gzIJEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp81hDIJEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_dp9ckDIJEeiohIwDD0HaEw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_KDiEADITEeiohIwDD0HaEw" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="CollegeMgnt.uml#_KC_RcDITEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KDiEATITEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_dp9ckTIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_dp9ckjIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_dp9ckzIJEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp9clDIJEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_dp-DoDIJEeiohIwDD0HaEw" type="Class_NestedClassifierCompartment" collapsed="true">
+      <children xmi:type="notation:Shape" xmi:id="_PhtAEDIXEeiohIwDD0HaEw" type="Class_ClassNestedClassifierLabel">
+        <element xmi:type="uml:Class" href="CollegeMgnt.uml#_PgxzADIXEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_PhtAETIXEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_dp-DoTIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_dp-DojIJEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_dp-DozIJEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp-DpDIJEeiohIwDD0HaEw"/>
+    </children>
+    <element xmi:type="uml:Class" href="CollegeMgnt.uml#_dphXsDIJEeiohIwDD0HaEw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp39ATIJEeiohIwDD0HaEw" x="400" y="20" width="481"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_lJ7XoDIVEeiohIwDD0HaEw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_lJ8lwDIVEeiohIwDD0HaEw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_lJ8lwTIVEeiohIwDD0HaEw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_lJ8lwjIVEeiohIwDD0HaEw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_lJ9M0DIVEeiohIwDD0HaEw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_qpPgADIVEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_qoaZkDIVEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qpPgATIVEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_-DJT8DIVEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_-CiP8DIVEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_-DJT8TIVEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_a4nDYDIWEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_a30ZMDIWEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a4nDYTIWEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_lJ9M0TIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_lJ9M0jIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_lJ9M0zIVEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lJ9M1DIVEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_lJ9M1TIVEeiohIwDD0HaEw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_nTl9YDIWEeiohIwDD0HaEw" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="CollegeMgnt.uml#_nTJRcDIWEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_nTl9YTIWEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_lJ9M1jIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_lJ9M1zIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_lJ9M2DIVEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lJ9M2TIVEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_lJ9M2jIVEeiohIwDD0HaEw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_lJ9M2zIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_lJ9M3DIVEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_lJ9z4DIVEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lJ9z4TIVEeiohIwDD0HaEw"/>
+    </children>
+    <element xmi:type="uml:Class" href="CollegeMgnt.uml#_lJ3tQDIVEeiohIwDD0HaEw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lJ7XoTIVEeiohIwDD0HaEw" x="580" y="220"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_3xh6ADIXEeiohIwDD0HaEw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3xihEDIXEeiohIwDD0HaEw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_3xjIIDIXEeiohIwDD0HaEw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_3xjvMDIXEeiohIwDD0HaEw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_3xjvMTIXEeiohIwDD0HaEw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_IXEI4DIYEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_IVs28DIYEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IXEI4TIYEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_3xjvMjIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_3xjvMzIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_3xjvNDIXEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3xjvNTIXEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_3xkWQDIXEeiohIwDD0HaEw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_hKwE8DIYEeiohIwDD0HaEw" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="CollegeMgnt.uml#_hJ-B0DIYEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hKwE8TIYEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_20je8DIYEeiohIwDD0HaEw" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="CollegeMgnt.uml#_2zhkMDIYEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_20je8TIYEeiohIwDD0HaEw"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JIko4DIZEeiohIwDD0HaEw" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="CollegeMgnt.uml#_JHUEoDIZEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JIko4TIZEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_3xkWQTIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_3xkWQjIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_3xkWQzIXEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3xkWRDIXEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_3xkWRTIXEeiohIwDD0HaEw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_3xkWRjIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_3xkWRzIXEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_3xkWSDIXEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3xkWSTIXEeiohIwDD0HaEw"/>
+    </children>
+    <element xmi:type="uml:Class" href="CollegeMgnt.uml#_3xcacDIXEeiohIwDD0HaEw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3xh6ATIXEeiohIwDD0HaEw" x="20" y="240"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_enwHQDIZEeiohIwDD0HaEw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_enwuUDIZEeiohIwDD0HaEw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_enwuUTIZEeiohIwDD0HaEw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_enwuUjIZEeiohIwDD0HaEw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_enxVYDIZEeiohIwDD0HaEw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_ruiXUDIZEeiohIwDD0HaEw" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="CollegeMgnt.uml#_rtWrkDIZEeiohIwDD0HaEw"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ruiXUTIZEeiohIwDD0HaEw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_enxVYTIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_enxVYjIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_enxVYzIZEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_enxVZDIZEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_enxVZTIZEeiohIwDD0HaEw" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_enxVZjIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_enxVZzIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_enxVaDIZEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_enxVaTIZEeiohIwDD0HaEw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_enxVajIZEeiohIwDD0HaEw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_enxVazIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_enxVbDIZEeiohIwDD0HaEw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_enxVbTIZEeiohIwDD0HaEw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_enxVbjIZEeiohIwDD0HaEw"/>
+    </children>
+    <element xmi:type="uml:Class" href="CollegeMgnt.uml#_ensc4DIZEeiohIwDD0HaEw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_enwHQTIZEeiohIwDD0HaEw" x="680" y="400"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_XLhw0DIaEeiohIwDD0HaEw" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_XLhw0TIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_XLiX4DIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_dphXsDIJEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XLhw0jIaEeiohIwDD0HaEw" x="600" y="20"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ZS2CoDIaEeiohIwDD0HaEw" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_ZS2CoTIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ZS2CozIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_lJ3tQDIVEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZS2CojIaEeiohIwDD0HaEw" x="780" y="220"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bakkIDIaEeiohIwDD0HaEw" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_bakkITIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_balLMDIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_3xcacDIXEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bakkIjIaEeiohIwDD0HaEw" x="280" y="240"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ftxesDIaEeiohIwDD0HaEw" type="StereotypeComment">
+    <styles xmi:type="notation:TitleStyle" xmi:id="_ftxesTIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ftyFwDIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_ensc4DIZEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ftxesjIaEeiohIwDD0HaEw" x="880" y="400"/>
   </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_kNwM8Su3Eei-CaKkUR2COA" name="diagram_compatibility_version" stringValue="1.3.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_kNwM8iu3Eei-CaKkUR2COA"/>
@@ -66,5 +257,45 @@
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yP3l8i6uEeiUc7UsZ4Z0EA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
     <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yP4NAC6uEeiUc7UsZ4Z0EA"/>
     <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yP4NAS6uEeiUc7UsZ4Z0EA"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_XLjmADIaEeiohIwDD0HaEw" type="StereotypeCommentLink" source="_dp39ADIJEeiohIwDD0HaEw" target="_XLhw0DIaEeiohIwDD0HaEw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_XLjmATIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_XLk0IDIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_dphXsDIJEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XLjmAjIaEeiohIwDD0HaEw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XLkNEDIaEeiohIwDD0HaEw"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XLkNETIaEeiohIwDD0HaEw"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_ZS2psDIaEeiohIwDD0HaEw" type="StereotypeCommentLink" source="_lJ7XoDIVEeiohIwDD0HaEw" target="_ZS2CoDIaEeiohIwDD0HaEw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_ZS2psTIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ZS330DIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_lJ3tQDIVEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZS2psjIaEeiohIwDD0HaEw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZS3QwDIaEeiohIwDD0HaEw"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZS3QwTIaEeiohIwDD0HaEw"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_balLMTIaEeiohIwDD0HaEw" type="StereotypeCommentLink" source="_3xh6ADIXEeiohIwDD0HaEw" target="_bakkIDIaEeiohIwDD0HaEw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_balLMjIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_balyQTIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_3xcacDIXEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_balLMzIaEeiohIwDD0HaEw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_balLNDIaEeiohIwDD0HaEw"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_balyQDIaEeiohIwDD0HaEw"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_ftyFwTIaEeiohIwDD0HaEw" type="StereotypeCommentLink" source="_enwHQDIZEeiohIwDD0HaEw" target="_ftxesDIaEeiohIwDD0HaEw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_ftyFwjIaEeiohIwDD0HaEw"/>
+    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ftys0TIaEeiohIwDD0HaEw" name="BASE_ELEMENT">
+      <eObjectValue xmi:type="uml:Class" href="CollegeMgnt.uml#_ensc4DIZEeiohIwDD0HaEw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ftyFwzIaEeiohIwDD0HaEw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ftyFxDIaEeiohIwDD0HaEw"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ftys0DIaEeiohIwDD0HaEw"/>
   </edges>
 </notation:Diagram>
