@@ -94,7 +94,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp-DpDIJEeiohIwDD0HaEw"/>
     </children>
     <element xmi:type="uml:Class" href="CollegeMgnt.uml#_dphXsDIJEeiohIwDD0HaEw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp39ATIJEeiohIwDD0HaEw" x="400" y="20" width="481"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dp39ATIJEeiohIwDD0HaEw" x="400" y="20" width="561"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_lJ7XoDIVEeiohIwDD0HaEw" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_lJ8lwDIVEeiohIwDD0HaEw" type="Class_NameLabel"/>
