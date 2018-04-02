@@ -48,3 +48,11 @@ public class Librarian {
 	public void CheckbookAvailability(Integer Bookcode, Boolean null) { 
 		// TODO Auto-generated method
 	 }
+
+	public void CheckbookAvailability(Boolean null, Integer Bookcode) { 
+		// TODO Auto-generated method
+	 }
+
+	public void issueBook(Integer StudentID, Integer BookCode, Boolean null) { 
+		// TODO Auto-generated method
+	 }

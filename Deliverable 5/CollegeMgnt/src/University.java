@@ -90,6 +90,17 @@ public class University {
 	public Boolean enroll(String email, Integer phoneNumber, String address) { 
 		// TODO Auto-generated method
 		return null;
+	 }
+	/**
+	 * 
+	 * @param email 
+	 * @param phoneNumber 
+	 * @param address 
+	 * @return 
+	 */
+	public Boolean enroll(String email, String phoneNumber, String address) { 
+		// TODO Auto-generated method
+		return null;
 	 } 
 
 }
