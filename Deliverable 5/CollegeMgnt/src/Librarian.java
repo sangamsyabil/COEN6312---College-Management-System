@@ -21,12 +21,23 @@ public class Librarian {
 		 this.ID = ID; 
 	}
 
+	/**
+	 * 
+	 * @param Bookcode 
+	 * @return 
+	 */
 	public void CheckbookAvailability(Integer Bookcode, Boolean null) { 
 		// TODO Auto-generated method
 	 } 
 
 }
 
+	/**
+	 * 
+	 * @param StudentID 
+	 * @param BookCode 
+	 * @return 
+	 */
 	public void issueBook(Integer BookCode, Integer StudentID, Boolean null) { 
 		// TODO Auto-generated method
 	 }
@@ -55,4 +66,14 @@ public class Librarian {
 
 	public void issueBook(Integer StudentID, Integer BookCode, Boolean null) { 
 		// TODO Auto-generated method
+	 }
+
+	public Boolean issueBook(Integer StudentID, Integer BookCode) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+
+	public Boolean CheckbookAvailability(Integer Bookcode) { 
+		// TODO Auto-generated method
+		return null;
 	 }

@@ -42,6 +42,16 @@ public class Portal {
 	public String getDetails(String getInfo) { 
 		// TODO Auto-generated method
 		return null;
+	 }
+	/**
+	 * 
+	 * @param password 
+	 * @param username 
+	 * @return 
+	 */
+	public String getDetails(String password, String username) { 
+		// TODO Auto-generated method
+		return null;
 	 } 
 
 }

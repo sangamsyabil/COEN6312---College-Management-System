@@ -69,8 +69,8 @@ public class University {
 	/**
 	 * 
 	 * @param phoneNumber 
-	 * @param address 
 	 * @param email 
+	 * @param address 
 	 * @return 
 	 */
 	public Boolean enroll(Integer phoneNumber, String address, String email) { 
@@ -82,9 +82,9 @@ public class University {
 	}
 	/**
 	 * 
-	 * @param email 
-	 * @param phoneNumber 
 	 * @param address 
+	 * @param phoneNumber 
+	 * @param email 
 	 * @return 
 	 */
 	public Boolean enroll(String email, Integer phoneNumber, String address) { 
@@ -99,6 +99,17 @@ public class University {
 	 * @return 
 	 */
 	public Boolean enroll(String email, String phoneNumber, String address) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+	/**
+	 * 
+	 * @param address 
+	 * @param email 
+	 * @param phoneNumber 
+	 * @return 
+	 */
+	public Boolean enroll(String email, String address, Integer phoneNumber) { 
 		// TODO Auto-generated method
 		return null;
 	 } 

@@ -60,6 +60,55 @@ public class Staff {
 	private String CheckSchedule(Integer employeeID) { 
 		// TODO Auto-generated method
 		return null;
+	 }
+	/**
+	 * 
+	 * @param employeeID 
+	 * @return 
+	 */
+	private String CheckSchedule(String employeeID) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+	/**
+	 * 
+	 * @param employeeID 
+	 * @param requestedDate 
+	 * @return 
+	 */
+	public Boolean requestLeave(String employeeID, EDate requestedDate) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+	/**
+	 * 
+	 * @param employeeID 
+	 * @param DOB 
+	 * @return 
+	 */
+	private String accessPayStub(String employeeID, EDate DOB) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+	/**
+	 * 
+	 * @param DOB 
+	 * @param employeeID 
+	 * @return 
+	 */
+	private String accessPayStub(EDate DOB, String employeeID) { 
+		// TODO Auto-generated method
+		return null;
+	 }
+	/**
+	 * 
+	 * @param requestedDate 
+	 * @param employeeID 
+	 * @return 
+	 */
+	public Boolean requestLeave(EDate requestedDate, String employeeID) { 
+		// TODO Auto-generated method
+		return null;
 	 } 
 
 }
