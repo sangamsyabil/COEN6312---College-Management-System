@@ -290,7 +290,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jokazjRTEeiBorrNBtX2-Q"/>
     </children>
     <element xmi:type="uml:Class" href="CollegeMgnt.uml#_jnfcsDRTEeiBorrNBtX2-Q"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jogJUTRTEeiBorrNBtX2-Q" x="420" y="80" width="1021"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jogJUTRTEeiBorrNBtX2-Q" x="440" y="80" width="1021"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_AasF0TRVEeiBorrNBtX2-Q" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_AasF0zRVEeiBorrNBtX2-Q" type="Class_NameLabel"/>
@@ -1106,6 +1106,7 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_Q08l4DRiEeiBorrNBtX2-Q" type="Generalization_Edge" source="_lJ7XoDIVEeiohIwDD0HaEw" target="_jogJUDRTEeiBorrNBtX2-Q">
     <children xmi:type="notation:DecorationNode" xmi:id="_Q08l4zRiEeiBorrNBtX2-Q" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y6qK8DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
       <layoutConstraint xmi:type="notation:Location" xmi:id="_Q08l5DRiEeiBorrNBtX2-Q" y="40"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_Q08l4TRiEeiBorrNBtX2-Q"/>
@@ -1116,7 +1117,8 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_eAWQMDRiEeiBorrNBtX2-Q" type="Generalization_Edge" source="_d7cYgTRWEeiBorrNBtX2-Q" target="_jogJUDRTEeiBorrNBtX2-Q">
     <children xmi:type="notation:DecorationNode" xmi:id="_eAWQMzRiEeiBorrNBtX2-Q" type="Generalization_StereotypeLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_eAWQNDRiEeiBorrNBtX2-Q" y="40"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y-SGsDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eAWQNDRiEeiBorrNBtX2-Q" x="-1" y="40"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_eAWQMTRiEeiBorrNBtX2-Q"/>
     <element xmi:type="uml:Generalization" href="CollegeMgnt.uml#_d_AzcDRiEeiBorrNBtX2-Q"/>
@@ -1126,22 +1128,28 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_VjCQMDRjEeiY271KzJLR8Q" type="Association_Edge" source="_qm45QCu3Eei-CaKkUR2COA" target="_jogJUDRTEeiBorrNBtX2-Q">
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaIDRjEeiY271KzJLR8Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zBVasDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
       <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaITRjEeiY271KzJLR8Q" y="-20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaIjRjEeiY271KzJLR8Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zEJeIDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
       <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaIzRjEeiY271KzJLR8Q" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaJDRjEeiY271KzJLR8Q" type="Association_TargetRoleLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaJTRjEeiY271KzJLR8Q" y="-20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zHFdYDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaJTRjEeiY271KzJLR8Q" x="64" y="-20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaJjRjEeiY271KzJLR8Q" type="Association_SourceRoleLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaJzRjEeiY271KzJLR8Q" y="20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zJml4DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaJzRjEeiY271KzJLR8Q" x="-64" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaKDRjEeiY271KzJLR8Q" type="Association_SourceMultiplicityLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaKTRjEeiY271KzJLR8Q" y="20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zL5E4DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaKTRjEeiY271KzJLR8Q" x="64" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_VjLaKjRjEeiY271KzJLR8Q" type="Association_TargetMultiplicityLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaKzRjEeiY271KzJLR8Q" y="-20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_zNwGEDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VjLaKzRjEeiY271KzJLR8Q" x="-64" y="-20"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_VjCQMTRjEeiY271KzJLR8Q"/>
     <element xmi:type="uml:Association" href="CollegeMgnt.uml#_VfTmwDRjEeiY271KzJLR8Q"/>
@@ -1151,22 +1159,28 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_HXoZsDaNEeiPZ6X3i-VE5w" type="Association_Edge" source="_jogJUDRTEeiBorrNBtX2-Q" target="_dp39ADIJEeiohIwDD0HaEw">
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSMDaNEeiPZ6X3i-VE5w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yk4vQDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
       <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSMTaNEeiPZ6X3i-VE5w" y="-20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSMjaNEeiPZ6X3i-VE5w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ypPq0DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
       <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSMzaNEeiPZ6X3i-VE5w" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSNDaNEeiPZ6X3i-VE5w" type="Association_TargetRoleLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSNTaNEeiPZ6X3i-VE5w" y="-20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ysJ04DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSNTaNEeiPZ6X3i-VE5w" x="51" y="-20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSNjaNEeiPZ6X3i-VE5w" type="Association_SourceRoleLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSNzaNEeiPZ6X3i-VE5w" y="20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yvbLUDanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSNzaNEeiPZ6X3i-VE5w" x="-51" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSODaNEeiPZ6X3i-VE5w" type="Association_SourceMultiplicityLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSOTaNEeiPZ6X3i-VE5w" y="20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_yy4H8DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSOTaNEeiPZ6X3i-VE5w" x="51" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_HXtSOjaNEeiPZ6X3i-VE5w" type="Association_TargetMultiplicityLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSOzaNEeiPZ6X3i-VE5w" y="-20"/>
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y2YH4DanEeiUfNk64RpyzA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HXtSOzaNEeiPZ6X3i-VE5w" x="-51" y="-20"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_HXoZsTaNEeiPZ6X3i-VE5w"/>
     <element xmi:type="uml:Association" href="CollegeMgnt.uml#_HTI7QDaNEeiPZ6X3i-VE5w"/>
